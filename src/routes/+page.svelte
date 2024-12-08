@@ -24,7 +24,6 @@
 						type="text"
 						placeholder="Username"
 						class="mt-1 w-full rounded-full border bg-gray-100 px-10 py-3 text-gray-700 focus:outline-none focus:ring-2 focus:ring-blue-400"
-            bind:value={username}
 					/>
 				</div>
 			</div>
@@ -37,7 +36,6 @@
 						type="password"
 						placeholder="Password"
 						class="mt-1 w-full rounded-full border bg-gray-100 px-10 py-3 text-gray-700 focus:outline-none focus:ring-2 focus:ring-blue-400"
-            bind:value={password}
 					/>
 				</div>
 			</div>
