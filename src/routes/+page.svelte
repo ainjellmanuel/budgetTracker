@@ -54,7 +54,7 @@
 		<!-- Sign Up Link -->
 		<p class="mt-4 text-center text-sm text-gray-100">
 			Dont have an account?
-			<a href="/signup" class="cursor-pointer font-medium text-yellow-500 hover:text-yellow-600">
+			<a href="/" class="cursor-pointer font-medium text-yellow-500 hover:text-yellow-600">
 				Sign Up
 			</a>
 		</p>
